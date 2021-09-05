@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Gateway Single Channel
 
 **Puerta de enlace de un solo canal**
