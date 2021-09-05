@@ -256,11 +256,11 @@ Introduce tu SSID y tu contraseña de tu router WiFi.
 
 ### Descripción, correo, plataforma y localización
 
-#define _DESCRIPTION "ESP32 Gateway"
-#define _EMAIL "tucorreo@correo.com"
-#define _PLATFORM "ESP32 "
-#define _LAT 43.3730677
-#define _LON -8.4262774
+#define _DESCRIPTION "ESP32 Gateway"   
+#define _EMAIL "tucorreo@correo.com"   
+#define _PLATFORM "ESP32"   
+#define _LAT 43.3730677   
+#define _LON -8.4262774   
 #define _ALT 17					
 
 ## Editando el archivo **loraModem.h**
